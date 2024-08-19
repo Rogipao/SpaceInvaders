@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/python-%3E=%202.7-blue?style=flat-square&logo=appveyor)](https://www.python.org)
 [![Modules](https://img.shields.io/badge/modules-pygame-green?style=flat-square&logo=appveyor)](https://www.pygame.org/docs/)
 
-**ALIENS ESTÃO INVADINDO A TERRA!**
+**OCUPAÇÃO ALIENIGINA**
 
 Calma, essa é apenas a temática que do jogo Space Invaders!  
 Sendo originalmente lançado em 1978 pela [TAITO CORPORATION](https://www.taito.com/) e desenhado por Tomohiro Nishikado, e depois licenciado pela Midway. Este joguinho foi um dos primeiros cuja temática era de tiro e que possuia gráficos bidimensionais. _O sucesso se estende até os dias atuais!_
