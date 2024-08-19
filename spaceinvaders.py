@@ -14,8 +14,8 @@ RED   = (255, 0, 0)
 BLACK = (0, 0, 0)
 GREEN = (0, 255, 0)
 GOLD = (255, 215, 0)
-SPRINGREEN = (0, 250, 154)
-YELLOW = (245,219,20)
+SPRINGREEN = (0, 250, 155)#alterado para 1555#
+
 
 
 ####     TELA     ####
